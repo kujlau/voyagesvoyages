@@ -1,0 +1,13 @@
+# Ignore WordPress core files
+wp-admin/
+wp-includes/
+wp-content/uploads/
+
+# Ignore configuration files
+wp-config.php
+
+# Ignore system files
+.htaccess
+error_log
+logs
+*.log
